@@ -28,4 +28,4 @@ ID: 1a2B3cD4eF5GhIjKlmNOPqrSTUvwXYZ<br>
 Não há necessidade de autenticação interativa/manual
 
 # Próximos passos
-Validação de dados de ingestãoo brutos, com aplicação de regras de esquema e qualidade de conteúdo antes da persistência no lakehouse, utilizando a biblioteca SparkDQ: https://github.com/sparkdq-community/sparkdq
+Validação de dados de ingestão, com aplicação de regras de esquema e qualidade de conteúdo antes da persistência no lakehouse, utilizando a biblioteca SparkDQ: https://github.com/sparkdq-community/sparkdq
